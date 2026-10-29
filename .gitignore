@@ -2,3 +2,6 @@
 */copy.txt
 */a.out
 /signals/unstoppable
+/ipc/myfifo
+/ipc/fifowriter
+/ipc/fiforeader
