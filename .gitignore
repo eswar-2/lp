@@ -5,3 +5,5 @@
 /ipc/myfifo
 /ipc/fifowriter
 /ipc/fiforeader
+/sockets/server
+/sockets/client
